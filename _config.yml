@@ -1,20 +1,8 @@
-title: null
-cta:
-  domain: null
-  version: null
-  bucket: null
-layout_spectrum: 0.006382979
-favicon: null
 name: gregstreak.com
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.15146
+typography_spectrum: 0.5103363506495953
+title: null
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.4395062702242285
-  saturation: 0.8141988615971059
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.375
   lightness: 0.1057204748503864
+  saturation: 0.8141988615971059
   rhythmicContrast: 0.7914247163571417
-typography_spectrum: 0.5103363506495953
+purpose: []
