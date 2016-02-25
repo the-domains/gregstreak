@@ -1,6 +1,6 @@
 name: gregstreak.com
 favicon: null
-layout_spectrum: 0.39533
+layout_spectrum: 0.98741
 typography_spectrum: 0.14579
 title: null
 collections:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#dce0e9'
+    - '#bbbfc2'
+    - '#999999'
+    - '#291455'
+    - '#4b2c91'
   brandStrength: 0.1875
-  lightness: 0.1057204748503864
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
