@@ -1,16 +1,16 @@
 title: null
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.2106383
+layout_spectrum: 0.006382979
 favicon: null
 name: gregstreak.com
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
