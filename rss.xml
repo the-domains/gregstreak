@@ -4,7 +4,7 @@
         <description><![CDATA[gregstreak.com]]></description>
         <link>http://gregstreak.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 09:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 09:31:04 GMT</lastBuildDate>
         <atom:link href="http://gregstreak.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://gregstreak.com/00e9c475-d6c6-4861-91de-1e1dd03b2e31/index.html</link>
             <guid isPermaLink="false">00e9c475-d6c6-4861-91de-1e1dd03b2e31</guid>
             <pubDate>Fri, 26 Feb 2016 08:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b439c2-5a93-4d09-b9da-4c5d0320be11.png">]]></description>
-            <link>http://gregstreak.com/bd81c54e-2675-4cfa-ae15-68593147ad6c/index.html</link>
-            <guid isPermaLink="false">bd81c54e-2675-4cfa-ae15-68593147ad6c</guid>
-            <pubDate>Fri, 26 Feb 2016 09:28:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
