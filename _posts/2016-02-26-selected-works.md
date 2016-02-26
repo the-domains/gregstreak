@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T09:04:39.548Z'
-dateModified: '2016-02-26T09:04:28.572Z'
+datePublished: '2016-02-26T09:16:38.589Z'
+dateModified: '2016-02-26T09:09:45.395Z'
 title: Selected Works
 author: []
+sourcePath: _posts/2016-02-26-selected-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-selected-works.md
-published: true
 url: selected-works/index.html
 _type: WebPage
 
