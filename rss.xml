@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gregstreak.com]]></title>
         <description><![CDATA[gregstreak.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://gregstreak.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 12:03:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 12:05:32 GMT</lastBuildDate>
+        <atom:link href="http://gregstreak.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/caf9edf1-4c4f-421f-8fa0-843af846bda0.jpg">]]></description>
+            <link>http://gregstreak.com/abab3678-ebde-49fe-afd3-e30af22fc2f9/index.html</link>
+            <guid isPermaLink="false">abab3678-ebde-49fe-afd3-e30af22fc2f9</guid>
+            <pubDate>Sat, 12 Mar 2016 12:04:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/661a05bd-e090-42f7-a170-fa25ce01d846.jpg">]]></description>
-            <link>undefinedf8caec7f-8128-4d40-a7ba-b28a8a916470/index.html</link>
+            <link>http://gregstreak.com/f8caec7f-8128-4d40-a7ba-b28a8a916470/index.html</link>
             <guid isPermaLink="false">f8caec7f-8128-4d40-a7ba-b28a8a916470</guid>
             <pubDate>Sat, 12 Mar 2016 12:02:57 GMT</pubDate>
         </item>
